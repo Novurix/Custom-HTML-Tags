@@ -1,0 +1,19 @@
+/* modifing our tag */
+body {
+    margin: 0px;
+    padding: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+example {
+
+    background-color: rgb(240,240,240);
+    color: black;
+    font-family: sans-serif;
+
+    padding: 10px;
+    border-radius: 10px;
+}
