@@ -1,2 +1,2 @@
 # Custom HTML Tags
-create custom <tags></tags> using only Html and css 
+create custom <tags> using only Html and css 
